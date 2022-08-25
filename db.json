@@ -1,0 +1,61 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "Name": "Bamboo & Sea Salt Whitening Antiplaque Toothpaste",
+      "Img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/HimalayaBambooToothpaste-Tube_Front_1024x1024.png?v=1613065864",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "Suggested_Use": "Brush thoroughly after each meal, or at least twice a day, or as directed by a dentist. Consult your dentist for children under 2 years. Children under 6 years should use a pea-sized amount under adult supervision.",
+      "Price": 5.99,
+      "Category": "Oral Care",
+      "Flavour": "Mint",
+      "Product_type": "Adult",
+      "Best_Selling": "Best Selling"
+    },
+    {
+      "id": 2,
+      "Name": "Charcoal & Black Seed Oil Whitening Antiplaque Toothpaste",
+      "Img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/HimalayaCharcoalToothpaste-Tube_Front_1024x1024.png?v=1613059882",
+      "Product_desc": "Let the powerful whitening action of Charcoal (derived from Coconut Shell Powder) and the famous cleansing ability of Black Seed Oil leave your mouth feeling fresher and brighter than ever.",
+      "Suggested_Use": "Brush thoroughly after each meal, or at least twice a day, or as directed by a dentist. Consult your dentist for children under 2 years. Children under 6 years should use a pea-sized amount under adult supervision.",
+      "Price": 5.99,
+      "Category": "Oral Care",
+      "Flavour": "Mint",
+      "Product_type": "Complete Care"
+    },
+    {
+      "id": 3,
+      "Name": "Kids Toothpaste - Bubble Gum",
+      "Img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-1_1024x1024.jpg?v=1591028200",
+      "Product_desc": "Its time to make brushing fun! With a fantastically-foamy bubble gum flavor that keeps young brushers coming back for more, our Kids Bubble Gum Toothpaste is a treat that will encourage kids to stick with their brushing routine.",
+      "Suggested_Use": "Brush thoroughly after each meal, or at least twice a day, or as directed by a dentist. Consult your dentist for children under 2 years. Children under 6 years should use a pea-sized amount under adult supervision.",
+      "Price": 4.99,
+      "Category": "Oral Care",
+      "Flavour": "Bubble Gum",
+      "Product_type": "Kids",
+      "Best_Selling": "Best Selling"
+    },
+    {
+      "id": 4,
+      "Name": "Kids Toothpaste - Cool Mint",
+      "Img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/image-2_1024x1024.jpg?v=1591028203",
+      "Product_desc": "With just enough mint for your child’s tender taste buds, our fluoride-free Kids Cool Mint Toothpaste combines real ingredients with great taste that keeps kids brushing longer. With no compromise on foam and flavor, it’s the toothpaste all the cool kids are craving without all the unwanted extras. ",
+      "Suggested_Use": "Brush thoroughly after each meal, or at least twice a day, or as directed by a dentist. Consult your dentist for children under 2 years. Children under 6 years should use a pea-sized amount under adult supervision.",
+      "Price": 4.99,
+      "Category": "Oral Care",
+      "Flavour": "Mint",
+      "Product_type": "Kids"
+    },
+    {
+      "id": 5,
+      "Name": "Kids Toothpaste - Orange",
+      "Img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/KIDSORANGEVERTICALTUBE_1024x1024.jpg?v=1608240530",
+      "Product_desc": "Sweet and tasty! Our Kids Orange Toothpaste is carefully formulated with herbs and botanicals like Neem and Pomegranate to gently clean teeth and help your child maintain a healthy-looking smile without all the unwanted extras.",
+      "Suggested_Use": "Brush thoroughly after each meal, or at least twice a day, or as directed by a dentist. Consult your dentist for children under 2 years. Children under 6 years should use a pea-sized amount under adult supervision.",
+      "Price": 4.99,
+      "Category": "Oral Care",
+      "Flavour": "Orange",
+      "Product_type": "Kids"
+    }
+  ]
+}
